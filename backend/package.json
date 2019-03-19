@@ -1,0 +1,19 @@
+{
+  "name": "async-mastery",
+  "version": "1.0.0",
+  "description": "Demo various strategies for handling async logic with React",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Christian <rm.rf.etc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
